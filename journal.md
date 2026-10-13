@@ -16,3 +16,4 @@ Deliverable: Built and submitted PS0 in Scratch (8/8 score) and watched Week 1 l
 Learned: Compiling source code to machine code, C syntax basics, stdio.h library, and string inputs.
 Fixed: Converted Scratch ball reset logic into a custom block with an input parameter to pass check50.
 Tomorrow's Deliverable: Finish Week 1 lecture part 2 and write first C program.
+Hours: 2.5
