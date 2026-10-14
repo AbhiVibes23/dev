@@ -17,3 +17,6 @@ Learned: Compiling source code to machine code, C syntax basics, stdio.h library
 Fixed: Converted Scratch ball reset logic into a custom block with an input parameter to pass check50.
 Tomorrow's Deliverable: Finish Week 1 lecture part 2 and write first C program.
 Hours: 2.5
+## 2026-10-14 (Night 3)
+Skipped everything due to match and friend birthday 
+Tomorrow: Combining Night 3 & 4
